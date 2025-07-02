@@ -1,7 +1,7 @@
 Kbdlight
 ========
 
-kbdlight is very simple application that changes MacBook 12 inch 2007 (Macbook10.1) keyboard
+kbdlight is very simple application that changes MacBook 12 inch 2017 (Macbook10.1) keyboard
 backlight level.
 
 While usable standalone, the main goal is for it to be used by other
