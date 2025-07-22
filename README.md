@@ -21,9 +21,4 @@ Usage is quite simple:
 Project status
 --------------
 
-This project is finshed. It works, and hasn't had any issues in years. Since I
-no longer have a MacBook, I can no longer accurately test this either. If it's
-broken, you're welcome to maintain this package.
-
-Copyright (c) 2013-2022, Hugo Osvaldo Barrera <hugo@whynothugo.nl> and
-contributors. See LICENCE for details.
+This project is finshed. 
