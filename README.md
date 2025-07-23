@@ -18,7 +18,3 @@ Usage is quite simple:
 `value` should be an integer between 0 the maximum brightness value (usually
 255, but this *may* vary).
 
-Project status
---------------
-
-This project is finshed. 
